@@ -2,8 +2,7 @@
 
 - 👋 Hi, I'm **@dreamer198**.
 - 🏫 I'm currently at **Wuhan University** in Wuhan, China.
-- 🚁 I focus on **UAV autonomy, motion planning, and embodied intelligence**.
-- 🧠 I'm also interested in **learning-based navigation, world models, and embodied intelligence**.
+- 🧠 I'm interested in **Vision-Language Navigation, World Action Model, and Embodied Intelligence**.
 - 💬 Feel free to connect with me about UAV planning, robotics, or reproducible research.
 - 🌐 [Homepage](https://dreamer198.top/about/) · [ORCID](https://orcid.org/0009-0005-8349-9904)
 
