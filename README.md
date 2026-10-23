@@ -3,7 +3,7 @@
 - 👋 Hi, I'm **@dreamer198**.
 - 🧠 I'm interested in **Vision-Language Navigation, World Action Model, and Embodied Intelligence**.
 - 💬 Feel free to connect with me about UAV planning, robotics, or reproducible research.
-- 🌐 [Homepage](https://dreamer198.top/about/) · [ORCID](https://orcid.org/0009-0005-8349-9904)
+- 📧 Email: [hziqian621@gmail.com](mailto:hziqian621@gmail.com)
 
 <p>
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
